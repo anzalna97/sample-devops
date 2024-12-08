@@ -1,0 +1,12 @@
+  95  git status
+   96  historey
+   97  history
+   98  clear
+   99  s
+  100  ls
+  101  git add
+  102  git add .
+  103  pwd
+  104  ls
+  105  git init
+  106  git init
